@@ -1,0 +1,25 @@
+Typ Klienta	Zni¿ka	Darmowy Transport
+Super Klient	10	NIE
+Goœæ	7	NIE
+Goœæ	10	TAK
+Zarejestrowany	5	NIE
+Zarejestrowany	10	TAK
+Zarejestrowany	0	TAK
+Super Klient	7	TAK
+Super Klient	0	NIE
+Goœæ	1	NIE
+Zarejestrowany	7	TAK
+Super Klient	5	TAK
+Goœæ	20	TAK
+Zarejestrowany	1	TAK
+Goœæ	15	TAK
+Super Klient	13	TAK
+Zarejestrowany	20	NIE
+Super Klient	15	NIE
+Goœæ	0	NIE
+Zarejestrowany	13	NIE
+Goœæ	5	TAK
+Super Klient	20	TAK
+Zarejestrowany	15	NIE
+Super Klient	1	NIE
+Goœæ	13	NIE
